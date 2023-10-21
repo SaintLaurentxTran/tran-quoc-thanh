@@ -1,4 +1,2 @@
-
-=======
-hello, mother father, đây là conflig
->>>>>>> 304ee1d97748465b087f804a279bc17380737817
+hello, mother father, đây là conflig.
+hello, sorry for the conflig.
