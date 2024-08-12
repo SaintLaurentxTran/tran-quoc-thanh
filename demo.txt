@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi, my name's tran quoc thanh. This is my first commit on my legion r9000p 2023
+=======
+hi, my name's tran quoc thanh. This is my first commit on my legion r9000p
+>>>>>>> 5403c11bf99451efc28de48e4677b1e5a8334902
